@@ -1,3 +1,3 @@
 # shopping_list_manager
 
-A shopping list manager app.
+A shopping list manager application.
